@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dailywonderly.com/sitemap.xml

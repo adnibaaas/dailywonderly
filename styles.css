@@ -1,0 +1,24 @@
+
+:root{--navy:#071d38;--red:#c91f25;--ink:#132238;--muted:#657386;--bg:#f8f9fb;--line:#e6e9ee}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif}a{text-decoration:none;color:inherit}
+.site-header{background:#fff;border-bottom:1px solid var(--line)}.head-inner{max-width:1180px;margin:auto;padding:22px 18px 12px}.brand{font-family:Georgia,serif;font-size:42px;font-weight:900;letter-spacing:-2px}.brand span{color:var(--red)}.tagline{font-size:14px;font-weight:700}
+nav{background:var(--navy);color:#fff;display:flex;gap:22px;align-items:center;padding:13px max(18px,calc((100vw - 1180px)/2 + 18px));overflow:auto;white-space:nowrap}nav a{font-weight:800;font-size:13px}nav a:hover{color:#ffdc63}
+.wrap{max-width:1180px;margin:auto;padding:24px 18px 50px}.hero{display:grid;grid-template-columns:1.35fr 1fr;gap:20px}.hero-main,.small-card,.story-card{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:0 5px 16px #0000000b}.hero-main img{width:100%;height:380px;object-fit:cover}.hero-body{padding:22px}.hero h1{font-size:40px;line-height:1.05;margin:8px 0}.badge{display:inline-block;background:var(--red);color:#fff;border-radius:4px;padding:5px 8px;font-size:11px;font-weight:900;text-transform:uppercase}.dek{color:var(--muted);font-size:17px;line-height:1.5}.cta{color:var(--red);font-weight:900;font-size:13px}
+.side-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.small-card img{width:100%;height:145px;object-fit:cover}.small-card .body,.story-card .body{padding:14px}.small-card h3,.story-card h3{margin:7px 0 8px;line-height:1.18}
+.section-title{font-size:28px;margin:40px 0 18px;border-bottom:3px solid var(--red);padding-bottom:8px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.story-card img{width:100%;height:190px;object-fit:cover}.story-card h3{font-size:20px}
+.category-hero{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px;margin-bottom:20px}.category-hero h1{margin:0 0 8px;font-size:36px}
+.article{max-width:860px;margin:30px auto 60px;padding:0 18px}.article h1{font-size:46px;line-height:1.05;margin:10px 0 15px}.lead{font-size:20px;color:#566477;line-height:1.55}.hero-img{width:100%;max-height:520px;object-fit:cover;border-radius:10px}.article-body{font-family:Georgia,serif;font-size:19px;line-height:1.75;color:#252525}.article-body h2{font-family:Arial,sans-serif;font-size:27px;color:var(--ink);margin-top:32px}
+.medical,.fiction{padding:14px 16px;margin:20px 0;font-size:14px;line-height:1.5}.medical{background:#fff5dd;border-left:4px solid #d69e00}.fiction{background:#eef4ff;border-left:4px solid #3b6eea}.sources{border-top:1px solid var(--line);margin-top:35px;padding-top:16px}.sources a{color:#1457a3;text-decoration:underline}
+.related{border-top:4px solid var(--navy);margin-top:38px;padding-top:16px}.related a{display:block;color:var(--red);font-weight:800;margin:10px 0}.page{max-width:850px;margin:35px auto;padding:0 18px}.page h1{font-size:42px}
+footer{background:var(--navy);color:#fff}.footer-inner{max-width:1180px;margin:auto;padding:28px 18px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}footer a{color:#fff}
+@media(max-width:900px){.hero{grid-template-columns:1fr}.grid{grid-template-columns:repeat(2,1fr)}.article h1{font-size:38px}}@media(max-width:580px){.grid,.side-grid{grid-template-columns:1fr}.brand{font-size:34px}.hero-main img{height:280px}.article h1{font-size:33px}.story-card img{height:220px}}
+
+.article-meta{display:flex;gap:10px;flex-wrap:wrap;color:#7a8797;font-size:13px;margin:10px 0 18px}
+.article-meta span+span:before{content:"•";margin-right:10px}
+.takeaway{background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin:22px 0}
+.takeaway strong{display:block;font-family:Arial,sans-serif;font-size:17px;margin-bottom:6px}
+.share-row{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0}
+.share-row a{font-family:Arial,sans-serif;font-weight:800;font-size:13px;border:1px solid var(--line);background:#fff;padding:10px 14px;border-radius:7px}
+.share-row a:hover{border-color:var(--red);color:var(--red)}
+.article-body .numbered-tip{border-bottom:1px solid #eceff3;padding-bottom:12px}
+.editorial-note{font-size:13px;color:#7a8797;margin:8px 0 20px}
