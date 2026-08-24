@@ -2,240 +2,135 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <!-- MAIN PAGES -->
+<url><loc>https://dailywonderly.com/</loc></url>
+<url><loc>https://dailywonderly.com/about.html</loc></url>
+<url><loc>https://dailywonderly.com/contact.html</loc></url>
+<url><loc>https://dailywonderly.com/privacy.html</loc></url>
+<url><loc>https://dailywonderly.com/terms.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/</loc>
-    </url>
+<url><loc>https://dailywonderly.com/health.html</loc></url>
+<url><loc>https://dailywonderly.com/food.html</loc></url>
+<url><loc>https://dailywonderly.com/home.html</loc></url>
+<url><loc>https://dailywonderly.com/stories.html</loc></url>
+<url><loc>https://dailywonderly.com/animals.html</loc></url>
+<url><loc>https://dailywonderly.com/nostalgia.html</loc></url>
+<url><loc>https://dailywonderly.com/curiosities.html</loc></url>
+<url><loc>https://dailywonderly.com/travel.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/about.html</loc>
-    </url>
 
-    <url>
-        <loc>https://dailywonderly.com/contact.html</loc>
-    </url>
+<!-- LATEST -->
 
-    <url>
-        <loc>https://dailywonderly.com/privacy.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/parents-skipped-husbands-funeral.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/terms.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/trump-iran-tensions-latest.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/health.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/cared-for-father-in-law-lawyer-funeral.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/food.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/police-sealed-off-neighborhood-barricades.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/home.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/missing-teen-found-police-questioned-everything.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/stories.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/prince-harry-reportedly-grieving-sudden-death.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/animals.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/father-saw-sons-science-fair.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/nostalgia.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/what-happens-when-you-have-sex-before-bed.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/curiosities.html</loc>
-    </url>
+<url>
+  <loc>https://dailywonderly.com/articles/he-thought-his-wife-was-angry.html</loc>
+</url>
 
-    <url>
-        <loc>https://dailywonderly.com/travel.html</loc>
-    </url>
 
+<!-- HEALTH -->
 
-    <!-- ===================================== -->
-    <!-- NEW / LATEST ARTICLES -->
-    <!-- ===================================== -->
+<url><loc>https://dailywonderly.com/articles/what-walking-30-minutes-can-do.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/trump-iran-tensions-latest.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/why-you-keep-waking-up-at-night.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/cared-for-father-in-law-lawyer-funeral.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/simple-hydration-signs.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/police-sealed-off-neighborhood-barricades.html</loc>
-    </url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/missing-teen-found-police-questioned-everything.html</loc>
-    </url>
+<!-- FOOD -->
 
-    <url>
-        <loc>https://dailywonderly.com/articles/prince-harry-reportedly-grieving-sudden-death.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/easy-dinners-people-actually-repeat.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/father-saw-sons-science-fair.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/foods-that-support-healthy-aging.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/what-happens-when-you-have-sex-before-bed.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/old-fashioned-recipes-worth-keeping.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/he-thought-his-wife-was-angry.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/5-minute-no-bake-chocolate-cake.html</loc></url>
 
 
-    <!-- ===================================== -->
-    <!-- HEALTH -->
-    <!-- ===================================== -->
+<!-- HOME -->
 
-    <url>
-        <loc>https://dailywonderly.com/articles/what-walking-30-minutes-can-do.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/things-not-to-store-under-kitchen-sink.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/why-you-keep-waking-up-at-night.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/declutter-without-overwhelm.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/simple-hydration-signs.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/small-home-details-that-age-a-room.html</loc></url>
 
 
-    <!-- ===================================== -->
-    <!-- FOOD -->
-    <!-- ===================================== -->
+<!-- STORIES -->
 
-    <url>
-        <loc>https://dailywonderly.com/articles/easy-dinners-people-actually-repeat.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/box-of-old-photos-in-attic.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/foods-that-support-healthy-aging.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/neighbor-left-groceries-at-door.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/old-fashioned-recipes-worth-keeping.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/old-house-hidden-recipe-box.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/5-minute-no-bake-chocolate-cake.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/dog-returned-same-place-every-day.html</loc></url>
 
 
-    <!-- ===================================== -->
-    <!-- HOME -->
-    <!-- ===================================== -->
+<!-- ANIMALS -->
 
-    <url>
-        <loc>https://dailywonderly.com/articles/things-not-to-store-under-kitchen-sink.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/signs-your-dog-trusts-you.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/declutter-without-overwhelm.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/cats-weird-but-normal.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/small-home-details-that-age-a-room.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/why-dogs-follow-you-room-to-room.html</loc></url>
 
 
-    <!-- ===================================== -->
-    <!-- STORIES -->
-    <!-- ===================================== -->
+<!-- NOSTALGIA -->
 
-    <url>
-        <loc>https://dailywonderly.com/articles/box-of-old-photos-in-attic.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/things-we-did-before-smartphones.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/neighbor-left-groceries-at-door.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/every-70s-kitchen.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/old-house-hidden-recipe-box.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/things-kids-80s-90s-remember.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/dog-returned-same-place-every-day.html</loc>
-    </url>
 
+<!-- CURIOSITIES -->
 
-    <!-- ===================================== -->
-    <!-- ANIMALS -->
-    <!-- ===================================== -->
+<url><loc>https://dailywonderly.com/articles/why-airplane-windows-have-tiny-hole.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/signs-your-dog-trusts-you.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/why-jeans-have-tiny-pocket.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/cats-weird-but-normal.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/ordinary-things-hidden-purpose.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/why-dogs-follow-you-room-to-room.html</loc>
-    </url>
 
+<!-- TRAVEL -->
 
-    <!-- ===================================== -->
-    <!-- NOSTALGIA -->
-    <!-- ===================================== -->
+<url><loc>https://dailywonderly.com/articles/affordable-us-road-trip-ideas.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/things-we-did-before-smartphones.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/small-towns-feel-like-step-back.html</loc></url>
 
-    <url>
-        <loc>https://dailywonderly.com/articles/every-70s-kitchen.html</loc>
-    </url>
-
-    <url>
-        <loc>https://dailywonderly.com/articles/things-kids-80s-90s-remember.html</loc>
-    </url>
-
-
-    <!-- ===================================== -->
-    <!-- CURIOSITIES -->
-    <!-- ===================================== -->
-
-    <url>
-        <loc>https://dailywonderly.com/articles/why-airplane-windows-have-tiny-hole.html</loc>
-    </url>
-
-    <url>
-        <loc>https://dailywonderly.com/articles/why-jeans-have-tiny-pocket.html</loc>
-    </url>
-
-    <url>
-        <loc>https://dailywonderly.com/articles/ordinary-things-hidden-purpose.html</loc>
-    </url>
-
-
-    <!-- ===================================== -->
-    <!-- TRAVEL -->
-    <!-- ===================================== -->
-
-    <url>
-        <loc>https://dailywonderly.com/articles/affordable-us-road-trip-ideas.html</loc>
-    </url>
-
-    <url>
-        <loc>https://dailywonderly.com/articles/small-towns-feel-like-step-back.html</loc>
-    </url>
-
-    <url>
-        <loc>https://dailywonderly.com/articles/roadside-america-things-still-worth-stopping-for.html</loc>
-    </url>
+<url><loc>https://dailywonderly.com/articles/roadside-america-things-still-worth-stopping-for.html</loc></url>
 
 
 </urlset>
