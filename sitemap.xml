@@ -2,184 +2,266 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://dailywonderly.com/</loc>
-  </url>
+    <!-- MAIN PAGES -->
 
-  <url>
-    <loc>https://dailywonderly.com/about.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/contact.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/stories.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/privacy.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/health.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/terms.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/food.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/health.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/home.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/food.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/animals.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/home.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/nostalgia.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/stories.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/curiosities.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/animals.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/travel.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/nostalgia.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/about.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/curiosities.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/contact.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/travel.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/privacy.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.2</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/what-walking-30-minutes-can-do.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/terms.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.2</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/why-you-keep-waking-up-at-night.html</loc>
-  </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/simple-hydration-signs.html</loc>
-  </url>
+    <!-- NEWEST STORY -->
 
-  <url>
-    <loc>https://dailywonderly.com/articles/easy-dinners-people-actually-repeat.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/every-morning-he-made-two-coffees.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/foods-that-support-healthy-aging.html</loc>
-  </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/old-fashioned-recipes-worth-keeping.html</loc>
-  </url>
+    <!-- STORIES -->
 
-  <url>
-    <loc>https://dailywonderly.com/articles/things-not-to-store-under-kitchen-sink.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/parents-skipped-husbands-funeral.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/declutter-without-overwhelm.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/cared-for-father-in-law-lawyer-funeral.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/small-home-details-that-age-a-room.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/missing-teen-found-police-questioned-everything.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/box-of-old-photos-in-attic.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/police-sealed-off-neighborhood-barricades.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/neighbor-left-groceries-at-door.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/father-saw-sons-science-fair.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/old-house-hidden-recipe-box.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/dog-returned-same-place-every-day.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/signs-your-dog-trusts-you.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/he-thought-his-wife-was-angry.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/cats-weird-but-normal.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/box-of-old-photos-in-attic.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/why-dogs-follow-you-room-to-room.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/neighbor-left-groceries-at-door.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/things-we-did-before-smartphones.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/old-house-hidden-recipe-box.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/every-70s-kitchen.html</loc>
-  </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/things-kids-80s-90s-remember.html</loc>
-  </url>
+    <!-- HEALTH -->
 
-  <url>
-    <loc>https://dailywonderly.com/articles/why-airplane-windows-have-tiny-hole.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/what-walking-30-minutes-can-do.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/why-jeans-have-tiny-pocket.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/why-you-keep-waking-up-at-night.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/ordinary-things-hidden-purpose.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/simple-hydration-signs.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/affordable-us-road-trip-ideas.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/what-happens-when-you-have-sex-before-bed.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/small-towns-feel-like-step-back.html</loc>
-  </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/dog-returned-same-place-every-day.html</loc>
-  </url>
+    <!-- FOOD -->
 
-  <url>
-    <loc>https://dailywonderly.com/articles/roadside-america-things-still-worth-stopping-for.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/5-minute-no-bake-chocolate-cake.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/5-minute-no-bake-chocolate-cake.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/easy-dinners-people-actually-repeat.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <!-- NEWER STORIES -->
+    <url>
+        <loc>https://dailywonderly.com/articles/foods-that-support-healthy-aging.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/parents-skipped-husbands-funeral.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/old-fashioned-recipes-worth-keeping.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/raised-best-friends-son-hockey.html</loc>
-  </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/raised-triplet-nieces-graduation.html</loc>
-  </url>
+    <!-- HOME -->
 
-  <url>
-    <loc>https://dailywonderly.com/articles/trump-iran-tensions-latest.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/things-not-to-store-under-kitchen-sink.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <!-- NEW SHELLEY FABARES ARTICLE -->
+    <url>
+        <loc>https://dailywonderly.com/articles/declutter-without-overwhelm.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
-  <url>
-    <loc>https://dailywonderly.com/articles/shelley-fabares-dies-at-82.html</loc>
-  </url>
+    <url>
+        <loc>https://dailywonderly.com/articles/small-home-details-that-age-a-room.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+
+    <!-- ANIMALS -->
+
+    <url>
+        <loc>https://dailywonderly.com/articles/signs-your-dog-trusts-you.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+
+    <!-- NOSTALGIA -->
+
+    <url>
+        <loc>https://dailywonderly.com/articles/things-we-did-before-smartphones.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
 </urlset>
